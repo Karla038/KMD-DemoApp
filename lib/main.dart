@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorSchemeSeed: Colors.pinkAccent
       ),
       darkTheme: ThemeData.dark(),
-      home:const LoginScreen()
+      home: LoginScreen()
       //home: const CounterFunctionScreen(),
       );
   }
